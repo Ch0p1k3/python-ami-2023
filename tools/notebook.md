@@ -11,3 +11,4 @@ $ python3 -m notebook
 
 ### Google Colab
 Есть сервис [Google Colab](https://colab.google/), который позволяет работать с ноутбуками.
+ipynb
