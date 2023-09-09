@@ -10,3 +10,4 @@
 - [Записки по git](tools/git.md)
 - [Записки по терминалу (Linux/MacOS)](tools/terminal.md)
 - [Записки по PyCharm (IDE)](tools/pycharm.md)
+- [Записки по Visual Studio Code (IDE)](tools/vscode.md)
