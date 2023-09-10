@@ -2,6 +2,7 @@
 
 ### Ссылка на контест
 https://official.contest.yandex.ru/contest/51801/problems/
+https://contest.yandex.ru/contest/51801/problems/
 
 ### Общее
 
@@ -17,7 +18,7 @@ if __name__ == '__main__':
 - `def main()` - объявление [функции](https://docs.python.org/3/tutorial/controlflow.html#defining-functions) `main`. Дальше идет блок с кодом, который эта функция выполняет при ее вызове;
 - `main()` - вызов функции;
 - `if __name__ == '__main__`:
-  - `__name__` - аттрибут, в котором следующее значение:
+  - `__name__` - аттрибут, в котором следующее значение:o
     - когда скрипт запускается напрямую, `__name__` устанавливается в `'__main__'`;
     - когда [модуль](https://docs.python.org/3/tutorial/modules.html) импортируется, `__name__` устанавливается в имя этого модуля;
   - То есть, выражение `if __name__ == '__main__` выполнится только, тогда, когда мы напрямую начнем исполнять файл.
