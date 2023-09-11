@@ -43,3 +43,11 @@ code /home/chopik/python
 ```
 
 То есть надо написать `code` и нужную директорию. Если директорию не указать, то по-умолчанию берется текущая. [Ссылка на базовые команды в терминале](terminal.md).
+
+## Автоматическое удаление лишних пробелов в конце строк
+
+https://bobbyhadz.com/blog/remove-trailing-whitespace-vscode
+
+## Автоматическое добавление последней пустой строки в файле
+
+https://stackoverflow.com/questions/44704968/visual-studio-code-insert-newline-at-the-end-of-files
