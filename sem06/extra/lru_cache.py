@@ -10,6 +10,10 @@ def cache(max_size):
             return first_wraps
 
         used = dict()
+
+        # в python все объект (https://docs.python.org/3/reference/datamodel.html#objects-values-and-types)
+        # object это базовый класс всех типов. Здесть я создаю объект, которым буду разделять позиционные аргументы
+        # и именованные. Чуть ниже более подробное описание
         obj = object()
 
         @functools.wraps(func)
